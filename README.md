@@ -1,10 +1,8 @@
 <h1>SAMARTH LAB</h1>
 <hr><p>Lab management system using MERN(MongoDB,ExpressJs,ReactJS,NodeJS).</p>
 <h2>Project Video</h2>
-<video width="640" height="360" controls>
-  <source src="[/client/src/assets/Video/Samarth-Lab-Demo.mp4](https://github.com/NiranjanLangade/Samarth-Lab/assets/101569963/d467232e-fab5-4744-9dad-d523d99f7d33)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="360" src="[https://www.youtube.com/embed/your-video-id](https://github.com/NiranjanLangade/Samarth-Lab/assets/101569963/c088597f-ecd0-40f2-94d9-819ea208d185)" frameborder="0" allowfullscreen></iframe>
+
 <h2>General Information</h2>
 <hr><ul>
 <li>The Hospital Management System developed using the MERN stack is a comprehensive software solution that streamlines administrative tasks, patient records management, and doctor management for healthcare facilities.</li>
