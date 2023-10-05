@@ -1,7 +1,7 @@
 <h1>SAMARTH LAB</h1>
 <hr><p>Lab management system using MERN(MongoDB,ExpressJs,ReactJS,NodeJS).</p>
 <h2>Project Video</h2>
-<iframe width="640" height="360" src="https://github-production-user-asset-6210df.s3.amazonaws.com/101569963/272882178-c088597f-ecd0-40f2-94d9-819ea208d185.mp4" frameborder="0" allowfullscreen></iframe>
+https://github-production-user-asset-6210df.s3.amazonaws.com/101569963/272882178-c088597f-ecd0-40f2-94d9-819ea208d185.mp4
 
 <h2>General Information</h2>
 <hr><ul>
