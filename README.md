@@ -2,7 +2,7 @@
 <hr><p>Lab management system using MERN(MongoDB,ExpressJs,ReactJS,NodeJS).</p>
 <h2>Project Video</h2>
 <video width="640" height="360" controls>
-  <source src="/client/src/assets/Video/Samarth-Lab-Demo.mp4" type="video/mp4">
+  <source src="client\src\assets\Video\Samarth-Lab-Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <h2>General Information</h2>
